@@ -1,0 +1,5 @@
+keras==2.15.0
+matplotlib==3.8.2
+numpy==1.26.3
+Pillow==10.2.0
+tensorflow==2.15.0.post1
